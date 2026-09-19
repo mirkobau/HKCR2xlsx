@@ -1,2 +1,7 @@
 .vscode
 .*/
+*.reg
+*.json
+*.txt
+*.log
+*.xlsx
